@@ -1,6 +1,6 @@
 # FitLifeAI — Engineering Notes
 
-I'm the co-founder of [FitLifeAI](https://apps.apple.com/us/app/fitlifeai), an AI-powered iOS fitness app that generates personalized meal and workout plans with macro tracking. It's live on the App Store with 600+ downloads, 150 monthly active users, 40 paying subscribers (25% trial-to-paid conversion), and a 4.9-star App Store rating.
+I'm the co-founder of [FitLifeAI](https://apps.apple.com/us/app/fitlifeai-ai-coach-macros/id6751930554), an AI-powered iOS fitness app that generates personalized meal and workout plans with macro tracking. It's live on the App Store with 600+ downloads, 150 monthly active users, 40 paying subscribers (25% trial-to-paid conversion), and a 4.9-star App Store rating.
 
 The app's source code is private — it's the company's core IP. This repo documents the engineering behind it: the architecture, the problems that came up in production, and how I solved them.
 
